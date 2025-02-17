@@ -1,10 +1,10 @@
-package com.example.springdemo;
+package com.test.ademo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringdemoApplicationTests {
+class AdemoApplicationTests {
 
 	@Test
 	void contextLoads() {
